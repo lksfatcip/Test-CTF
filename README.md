@@ -1,42 +1,63 @@
-# Writeups for picoCTF challenges
+# 🛡️ Cybersecurity Practice Repository
 
-(picoctf_logo.png)
+Repository ini adalah **tempat latihan pribadi** saya untuk mempelajari dan mendalami bidang **Cybersecurity**, khususnya yang berkaitan dengan:
 
-Welcome to [my](https://play.picoctf.org/users/Cajac) writeups for [picoCTF](https://play.picoctf.org/login) challenges.
+* Capture The Flag (CTF)
+* Web Exploitation
+* Cryptography
+* Attack & Defense
+* Digital Forensics
+* Reverse Engineering
 
-These writeups are mainly a documentation for myself but I hope others will benefit from them as well.
+Semua isi di dalam repository ini **hanya untuk tujuan edukasi dan pembelajaran**, bukan untuk digunakan pada sistem nyata tanpa izin.
 
-In total you will find more than 250 challenge solutions here.
+---
 
-## Challenges
+## 🎯 Tujuan Repository
 
-- [picoCTF 2025 Challenges](picoCTF_2025/README.md)
-- [picoCTF 2024 Challenges](picoCTF_2024/README.md)
-- [picoCTF 2023 Challenges](picoCTF_2023/README.md)
-- [picoCTF 2022 Challenges](picoCTF_2022/README.md)
-- [Beginner picoMini 2022 Challenges](Beginner_picoMini_2022/README.md)
-- [picoMini by redpwn Challenges](picoMini_by_redpwn/README.md)
-- [picoCTF 2021 Challenges](picoCTF_2021/README.md)
-- [picoCTF 2020 Mini-Competition Challenges](picoCTF_2020/README.md)
-- [picoCTF 2019 Challenges](picoCTF_2019/README.md)
-- [picoGym Exclusive Challenges](picoGym_Exclusive/README.md)
+Repository ini dibuat untuk:
 
-## No spoilers
+* Melatih skill analisis keamanan
+* Membiasakan diri dengan pola soal CTF & LKS
+* Mendokumentasikan proses eksploitasi (write up / PoC)
+* Meningkatkan pemahaman tentang celah keamanan dan mitigasinya
 
-The solutions contains step-by-step walkthroughs but doesn't display the flags in plain text.  
-Instead the flags are displayd as `picoCTF{<REDACTED>}` or with just some portion of the flag visible.
+---
 
-## Language disclaimer
+## 📂 Isi Repository
 
-I'm not a native English speaker so please forgive any spelling mistakes or grammatical errors.
+[Write Up](https://github.com/frhndevweb/write-up)
+Di dalam repo ini terdapat:
 
-## Acknowledgements
+* Write up soal CTF (Crypto, Web, Forensic, dll)
+* Simulasi Attack & Defense
+* Contoh payload dan analisis
+* Catatan pribadi saat belajar
 
-Some of the solutions were inspired by writeups and walkthroughs from these guys:
+Struktur file dapat berubah sesuai progres latihan.
 
-- [Almond Force](https://www.youtube.com/@AlmondForce)
-- [David](https://github.com/Dvd848/CTFs)
-- [Gynvael](https://www.youtube.com/@GynvaelEN)
-- [Hayden Housen](https://github.com/HHousen)
-- [John Hammond](https://www.youtube.com/@_JohnHammond)
-- [Martin Carlisle](https://www.youtube.com/@carlislemc)
+---
+
+## ⚠️ Disclaimer
+
+Semua teknik yang dipelajari di sini:
+
+* **Hanya untuk pembelajaran**
+* **Tidak boleh digunakan untuk aktivitas ilegal**
+* Gunakan hanya pada sistem yang kamu miliki atau memiliki izin
+
+Saya tidak bertanggung jawab atas penyalahgunaan informasi dari repository ini.
+
+---
+
+## 📬 Kontak
+
+Jika ingin berdiskusi, kolaborasi, atau bertanya:
+
+* 📧 Email: **[farhanhanafi656@gmail.com](mailto:farhanhanafi656@gmail.com)**
+* 📷 Instagram: **[@esperessos](https://instagram.com/esperessos)**
+* 🌐 Website: **[frhndevweb.my.id](https://frhndevweb.my.id)**
+
+---
+
+🔥 *Stay curious, stay legal, stay hacking ethically.*
