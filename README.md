@@ -26,7 +26,7 @@ Repository ini dibuat untuk:
 
 ## 📂 Isi Repository
 
-[Write Up](https://github.com/frhndevweb/write-up)
+[Write Up](https://github.com/lksfatcip/Test-CTF)
 Di dalam repo ini terdapat:
 
 * Write up soal CTF (Crypto, Web, Forensic, dll)
@@ -48,15 +48,6 @@ Semua teknik yang dipelajari di sini:
 
 Saya tidak bertanggung jawab atas penyalahgunaan informasi dari repository ini.
 
----
-
-## 📬 Kontak
-
-Jika ingin berdiskusi, kolaborasi, atau bertanya:
-
-* 📧 Email: **[farhanhanafi656@gmail.com](mailto:farhanhanafi656@gmail.com)**
-* 📷 Instagram: **[@esperessos](https://instagram.com/esperessos)**
-* 🌐 Website: **[frhndevweb.my.id](https://frhndevweb.my.id)**
 
 ---
 
