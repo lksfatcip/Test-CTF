@@ -1,6 +1,6 @@
 # Writeups for picoCTF challenges
 
-![picoCTF Logo](picoctf_logo.png)
+(picoctf_logo.png)
 
 Welcome to [my](https://play.picoctf.org/users/Cajac) writeups for [picoCTF](https://play.picoctf.org/login) challenges.
 
@@ -25,10 +25,6 @@ In total you will find more than 250 challenge solutions here.
 
 The solutions contains step-by-step walkthroughs but doesn't display the flags in plain text.  
 Instead the flags are displayd as `picoCTF{<REDACTED>}` or with just some portion of the flag visible.
-
-## Support my work
-
-If you appreciate this repository and learn from it, please consider [giving it a star](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars#starring-a-repository) to support it and spread the word.
 
 ## Language disclaimer
 
