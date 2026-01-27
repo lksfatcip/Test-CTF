@@ -1,0 +1,22 @@
+Write UP CTF
+
+Identitas Challenge:
+Kategori : Cryptography
+Nama Challenge : Guess My Cheese (part2)
+Level : Medium
+
+Deskripsi Challenge:
+Pada challenge kali ini peserta di minta untuk mencari nama cheese dalam sebuah file yang di sediakan. Tujuan challenge ini adalah untuk mendapatkan flagnya melalui netcat(nc) yang sudah disediakan.
+
+Tahap Analisis
+Langkah awal adalah mencari nama cheese & salt yang sesuai di file list yang di sediakan:
+# buat satu file python untuk mencari yang sesuai
+#
+
+Tahap Penyelesaian
+0.1 unduh/buka file yang disediakan lalu copy/salin isinya
+0.2 buka salah satu website yang ada misalnya buka dcode.com : https://www.dcode.fr/monoalphabetic-substitution
+0.3 paste/tempel isi file yang di sediakan lalu klik decrypt dan dapatkan flagnya.
+
+Hasil Flag
+picoCTF{cHeEsYab922171}
