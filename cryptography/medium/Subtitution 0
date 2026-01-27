@@ -1,0 +1,49 @@
+Write UP CTF
+
+Identitas Challenge:
+Kategori : Cryptography
+Nama Challenge : Substitution 0
+Level : Medium
+
+Deskripsi Challenge:
+Pada challenge kali ini peserta di minta untuk menerjemahkan/mengubah sebuah file yang di sediakan. Tujuan challenge ini adalah untuk menerjemahkan/mengubah kode yang ada dalam file yang disediakan dan mendapatkan flagnya.
+
+Tahap Analisis
+Langkah awal adalah mencari tool yang sesuai di website:
+gunakan kata kunci subtitution chiper lalu cari, biasanya akan muncul beberapa website yang muncul seperti; dcode.com , cryptii.com , dll.
+pilih sesuai yang ingin digunakan.
+
+Tahap Penyelesaian
+0.1 unduh/buka file yang disediakan lalu copy/salin isinya
+0.2 buka salah satu website yang ada misalnya buka dcode.com : https://www.dcode.fr/monoalphabetic-substitution
+0.3 paste/tempel isi file yang di sediakan lalu klik decrypt dan dapatkan flagnya.
+
+Hasil Flag
+PICOCTF{5UB5717U710N_3V0LU710N_357BF9FF}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
