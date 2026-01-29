@@ -52,3 +52,5 @@ Saya tidak bertanggung jawab atas penyalahgunaan informasi dari repository ini.
 ---
 
 🔥 *Stay curious, stay legal, stay hacking ethically.*
+
+<img width="448" height="175" alt="Image" src="https://github.com/user-attachments/assets/69c7ade9-d5a8-4d91-9b9a-219782b5926f" />
