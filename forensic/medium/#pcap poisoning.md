@@ -1,13 +1,8 @@
-# [Challenge Name] - Writeup
-
-## 📋 Info
-**Category:** Web Exploitation  
-**Points:** 150  
-**Difficulty:** Medium  
+# pcap poisoning 
 
 **Description:**
-> Can you exploit this website to get the flag?
-> http://mercury.picoctf.net:PORT/
+Deskripsi
+Bagaimana dengan beberapa petak umpetnya? Download file ini dan temukan benderanya.
 
 ---
 
