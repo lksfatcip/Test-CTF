@@ -1,5 +1,5 @@
 # **Write Up**
-1.	 Identitas Challenge:
+## 1.	 Identitas Challenge:
 -	Nama Challenge: Hashcrack
 -	Level: Easy
 -	Kategori: Cryptography
